@@ -1,4 +1,4 @@
-This is the group project for 4516CSQR for the group of Faisal, Nasser and Abdullah.
+This is the group project for 4516CSQR made by Faisal Al-Saadi.
 
 This project goal is to analyze data from a world population dataset.
 
