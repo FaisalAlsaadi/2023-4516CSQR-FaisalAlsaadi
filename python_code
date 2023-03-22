@@ -15,7 +15,7 @@
 #program welcome message and menu for user to choose operation
 #MENU OPTIONS
 while True:
-    # Display menu options
+    # Display main menu options
     print("Data on World Populations")
     print("4516CSQR Group Project for Faisal Al-Saadi, Nassir Al-Ansari, Abdullah Al-Dahimi")
     print("Menu:")
