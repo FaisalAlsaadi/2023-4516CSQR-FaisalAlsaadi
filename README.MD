@@ -1,3 +1,5 @@
+This is the group project for 4516CSQR for the group of Faisal, Nasser and Abdullah.
+
 The file "project_code" is the Jupyter notebook python program.
 
 The file that starts with "World.." is the CSV dataset used for the project.
