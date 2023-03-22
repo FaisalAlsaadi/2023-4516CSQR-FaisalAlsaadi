@@ -2,7 +2,7 @@ This is the group project for 4516CSQR made by Faisal Al-Saadi.
 
 This project goal is to analyze data from a world population dataset.
 
-The packages used for the project are: Pandas, Numpy and Matplotlib.
+The packages used for the project are: Pandas, NumPy and Matplotlib.
 
 Cleaning and preparation of data unneeded as dataset was perfectly formatted.
 Source: https://www.kaggle.com/datasets/imrulhasanrobi/world-population-all-countries-different-parameter
