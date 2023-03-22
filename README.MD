@@ -1,4 +1,4 @@
-The file "python_code" is the program.
+The file "project_code" is the Jupyter notebook python program.
 
 The file that starts with "World.." is the CSV dataset used for the project.
 
