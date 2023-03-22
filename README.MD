@@ -4,7 +4,7 @@ The file "project_code" is the Jupyter notebook python program.
 
 The file that starts with "World.." is the CSV dataset used for the project.
 
-This project is to analyze data from a world population dataset.
+This project goal is to analyze data from a world population dataset.
 
 The packages used for the project are: Pandas, Numpy and Matplotlib.
 
