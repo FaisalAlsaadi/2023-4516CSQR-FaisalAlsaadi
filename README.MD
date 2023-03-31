@@ -5,7 +5,7 @@ The goal is to answer these question:
 
 1- Which continent has the most/least population? (show piechart of world share for each continent)
 
-2- Which continent had the most population growth?
+2- Which continent had the most/least population growth?
 
 3- Which continent has the most/least density?
 
@@ -13,7 +13,7 @@ The goal is to answer these question:
 
 5- Which continent has the most/least countries?
 
-6- Which countries have negative growth and which continent has the most of them?
+6- Which countries have negative growth and what are their count in each continent?
 
 The packages used for the project are: Pandas, NumPy and Matplotlib.
 
