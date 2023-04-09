@@ -27,5 +27,5 @@ The 'final.xlsx' file is the final dataset after being cleaned.
 For more information on the final analysis see the Powerpoint presentation.
 
 Note: A Github invite was sent to Dr. Abubakr @ address 
-a.aqle@oryx.edu.qa from email 10126@oryx.edu.qa so that he can view the page. The link to the project is this:
+a.aqle@oryx.edu.qa so that he can view the page. The link to the project is this:
 https://github.com/FaisalAlsaadi/2023-4516CSQR-FaisalAlsaadi
