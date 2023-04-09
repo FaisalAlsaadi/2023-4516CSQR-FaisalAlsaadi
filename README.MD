@@ -25,3 +25,6 @@ The file "project.ipynb" is the Jupyter Notebook file used to write the program.
 The CSV files with years in them are the intial dataset used for the project before cleaning.
 The 'final.xlsx' file is the final dataset after being cleaned.
 For more information on the final analysis see the Powerpoint presentation.
+
+Note: A Github invite was sent to Dr. Abubakr so that he can view the page. The link to the project is this:
+https://github.com/FaisalAlsaadi/2023-4516CSQR-FaisalAlsaadi
