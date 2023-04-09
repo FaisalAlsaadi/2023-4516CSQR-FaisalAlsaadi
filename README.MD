@@ -20,8 +20,8 @@ The packages used for the project are: Pandas, NumPy and Matplotlib, and Microso
 Datasets source (2020,2021,2022): https://www.kaggle.com/datasets/rsrishav/world-population/versions/698?resource=download
                 Continent column: https://www.kaggle.com/datasets/muhammedtausif/world-population-by-countries
 
-The file "project.ipynb" is the Jupyter notebook file used to write the program.
+The file "project.ipynb" is the Jupyter Notebook file used to write the program. In order to run it, simply load the file in Jupyter Notebook and press (SHIFT+ENTER) starting from the first cell. This will reproduce all the results contained in the findings of the project in the Powerpoint presentation.
 
 The CSV files with years in them are the intial dataset used for the project before cleaning.
 The 'final.xlsx' file is the final dataset after being cleaned.
-For more information on the final analysis see the powerpoint presentation.
+For more information on the final analysis see the Powerpoint presentation.
